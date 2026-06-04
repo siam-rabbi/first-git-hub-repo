@@ -1,0 +1,79 @@
+ *{
+            margin: 10px;
+
+        }
+        #short{
+            text-align: center;
+            padding: 50px;
+            font-weight: bolder;
+        }
+        .player{
+            text-align: center;
+            color: whitesmoke;
+            padding: 50px;
+            background-color: tomato;
+            font-weight: bold;
+            text-transform: uppercase;
+         
+        }
+        .yellow{
+            background-color: yellow;
+            padding: 50px;
+        }
+        .skyblue{
+            background-color: skyblue;
+            padding: 50px;
+        }
+        .green{
+            background-color: greenyellow;
+            padding: 50px;
+            box-shadow: 5px 10px 10px;
+            
+        }
+        .orange{
+            background-color: orange;
+            padding: 50px;
+        }
+        .bold{
+            font-weight: bold;
+            text-transform: uppercase;
+            box-shadow: 5px 10px 10px;
+        }
+    
+        
+        p{
+            width: 50%;
+            text-align: center;
+            
+        }
+        input{
+            width: 50%;
+            background-color:bisque;
+            padding: 10px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+            box-shadow: 2\px 3px 4px;
+            
+        }
+        #first{
+            margin-top: 20px;
+            
+        }
+        button{
+            margin: 10px;
+            width: 100px;
+            height: 40px;
+            border-radius: 6px;
+            color: salmon;
+            background-color: yellow;
+            box-shadow: 2px 4px 4px black;
+            
+
+
+        }
+.header{
+   height: 200px; 
+   background-image: url('hillnature.jpg');
+   background-size: 300px;
+   background-repeat:no-repeat;
+}
