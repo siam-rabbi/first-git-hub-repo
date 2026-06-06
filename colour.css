@@ -2,6 +2,25 @@
             margin: 10px;
 
         }
+        nav{
+            background-color: red;
+            padding: 20px;
+            width: 50%;
+        }
+        nav li{
+            list-style: none;
+            display: inline;
+            margin-right: 15px;
+        }
+        nav li:hover{
+        background-color: brown;
+            
+        }
+
+        nav li a{
+            text-decoration: none;
+            color: aquamarine;
+        }
         #short{
             text-align: center;
             padding: 50px;
